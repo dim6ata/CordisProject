@@ -636,8 +636,8 @@ public class CordisServer {
         try {
             setRandomCode();
             String host = "smtp.gmail.com";
-            String user = "cordis.group.project@gmail.com";
-            String pass = "Cordis!B40L";//think about retrieving this value from the database. 
+            String user = "cordis.group.project@gmail.com";//add your email here. 
+            String pass = "";//removed password for security reasons.
             String to = email;
             String subject = "Verification Code";
             String message = text + randomCode;
