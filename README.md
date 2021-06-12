@@ -1,17 +1,17 @@
 # CordisProject
-### The first university group Java development project, 2019-2020.
+### Portfolio Part #6: an initial full stack development attempt as part of a group university project, 2019-2020.
 
-The project acts as an introduction to full stack development and the use of an MVC design pattern. 
+The project acts as an introduction to the use of an MVC design pattern and database integration within the Java environment.
 
-It provides a login/registration service, visualisation of a data subset as determined by the university task. 
+It provides a login/registration service, visualisation of a data subset as determined by the university task, as well as admin functionalities. 
+
+The data visualisation is achieved by utilising the JFreeChart API (https://github.com/jfree/jfreechart). 
 
 The project is developed in NetBeans by using its form editor for the graphical interface. 
 
-This version being a bruteforce solution is still visible to portray the contrast between my initial learning stages as a developer and the more refined recent works.
-
 ## Application screenshots:
 
-### - Login/Registration:
+- ### Login/Registration:
 
 <table>
 
@@ -73,7 +73,7 @@ This version being a bruteforce solution is still visible to portray the contras
 
 </table>
 
-### - Admin Pages:
+- ### Admin Pages:
 
 <table>   
 <tr>
@@ -97,7 +97,7 @@ This version being a bruteforce solution is still visible to portray the contras
 </tr>  
 </table>
   
-### - Data Visualisation: 
+- ### Data Visualisation: 
 
 <table>   
 <tr>
